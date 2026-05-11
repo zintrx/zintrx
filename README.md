@@ -2,8 +2,10 @@
 ### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - IA aplicada
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santi99Cr7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santi99Cr7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <!-- Estadísticas Simplificadas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zintrx&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintrx&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
