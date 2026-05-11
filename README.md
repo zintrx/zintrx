@@ -1,5 +1,5 @@
-# 👋 Hola, soy Santiago (zintrx)
-### Full Stack Developer & 3D Web Creative | Co-Founder @ Vaez Lab
+# 👋 Hola, soy Santiago
+### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - Angular - IA aplicada
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zintrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
@@ -9,40 +9,36 @@
 ---
 
 ### 🚀 Sobre mí
-Me apasiona la intersección entre el **desarrollo web moderno** y las **tecnologías 3D**. Actualmente estoy enfocado en democratizar el uso de **Gaussian Splatting** para la visualización inmobiliaria y comercial a través de **Vaez Lab**.
+Soy desarrollador multiplataforma con experiencia práctica construyendo aplicaciones usando **Java**, **Spring Boot**, **APIs REST**, **SQL/JPA**, **Docker** y buenas prácticas de arquitectura.
+También trabajo con **HTML**, **CSS**, **JavaScript** y **Angular**, y he integrado APIs de Inteligencia Artificial en proyectos.
+Además, utilizo **Git y GitHub** de forma habitual para control de versiones, flujo de trabajo y colaboración.
 
-- 🔭 Actualmente trabajando en: **Vaez Spaces** (Visualización 3D fotorrealista).
-- 🌱 Aprendiendo: Optimizaciones avanzadas de WebGL y motores de renderizado en tiempo real.
-- 💬 Pregúntame sobre: React, Vite, Three.js y cómo digitalizar espacios físicos.
-- 📫 Cómo contactarme: [vaezdev@gmail.com](mailto:vaezdev@gmail.com)
+Siempre abierto a colaborar, aprender y aportar soluciones claras y bien construidas.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### 📁 Portfolio
+Puedes ver mis proyectos y trabajos realizados aquí:
+[🔗 Abrir mi Portafolio](https://zintrx.github.io/portfolio/)  
+*(Nota: He usado un link genérico basado en tu usuario, cámbialo si es necesario)*
 
+---
+
+### 📧 Contacto
+- **Email:** [santia51arenas@gmail.com](mailto:santia51arenas@gmail.com)
+- **LinkedIn:** [Mi LinkedIn](https://www.linkedin.com/in/tu-perfil-aqui/) *(Añade tu link aquí)*
+
+---
+
+### 🛠️ Tecnologías
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs,js,nodejs,git,vercel,figma" />
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,angular,react,js,git,html,css" />
   </a>
 </p>
 
 ---
 
-### ⭐ Proyectos Destacados
-
-#### [🌌 Vaez Spaces](https://github.com/zintrx/vaez-spaces)
-Plataforma premium de recorridos 3D inmersivos en el navegador.
-- **Tecnologías:** React, Three.js, Gaussian Splatting, Framer Motion.
-- **Impacto:** Permite caminar por espacios reales con calidad cinematográfica sin instalar aplicaciones.
-
----
-
-### 📊 Actividad en GitHub
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zintrx&theme=tokyonight&hide_border=true&background=0D1117)
-
----
-
 <div align="center">
-  <sub>Coded with ✨ by zintrx</sub>
+  <sub>Coded with ✨ by Santiago</sub>
 </div>
