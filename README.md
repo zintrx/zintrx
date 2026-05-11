@@ -1,9 +1,9 @@
 # 👋 Hola, soy Santiago
-### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - Angular - IA aplicada
+### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - IA aplicada
 
-div align="center">
-  <!-- Reemplaza "TU_USUARIO" abajo con tu nombre real de GitHub para que funcionen las estadísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=santiago arenas mira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santi99Cr7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santi99Cr7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
