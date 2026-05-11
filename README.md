@@ -1,9 +1,9 @@
 # 👋 Hola, soy Santiago
 ### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - Angular - IA aplicada
 
-<div align="center">
+div align="center">
+  <!-- Reemplaza "TU_USUARIO" abajo con tu nombre real de GitHub para que funcionen las estadísticas -->
   <img src="https://github-readme-stats.vercel.app/api?username=zintrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintrx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
