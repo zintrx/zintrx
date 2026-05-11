@@ -3,7 +3,7 @@
 
 div align="center">
   <!-- Reemplaza "TU_USUARIO" abajo con tu nombre real de GitHub para que funcionen las estadísticas -->
-  <img src="https://github-readme-stats.vercel.app/api?username=zintrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santiago arenas mira&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 ---
