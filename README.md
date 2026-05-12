@@ -1,5 +1,5 @@
 # 👋 Hola, soy Santiago
-### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - IA aplicada
+### Desarrollador Multiplataforma (DAM) - Java - Spring Boot - SQL - Docker - JavaScript - IA aplicada
 
 <div align="center">
   <!-- Estadísticas Simplificadas -->
